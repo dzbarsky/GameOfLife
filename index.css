@@ -1,0 +1,14 @@
+td {
+  width: 10px;
+  height: 10px;
+  cursor: pointer;
+  outline: 1px dashed gray;
+}
+
+table {
+  border: 1px solid black;
+}
+
+td:hover {
+  background-color: gray;
+}
